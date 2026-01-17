@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki305.Sadova.lab6","c":"TrashBinApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ki305.Sadova.lab6","c":"TrashBinApp","l":"TrashBinApp()","u":"%3Cinit%3E()"}];updateSearchResults();

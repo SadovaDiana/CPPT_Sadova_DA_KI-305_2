@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki305.Sadova.lab6","l":"TrashBinApp"}];updateSearchResults();

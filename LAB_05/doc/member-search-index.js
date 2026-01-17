@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki305.Sadova.lab5","c":"Equation","l":"calculate(double)"},{"p":"ki305.Sadova.lab5","c":"Equation","l":"Equation()","u":"%3Cinit%3E()"}];updateSearchResults();

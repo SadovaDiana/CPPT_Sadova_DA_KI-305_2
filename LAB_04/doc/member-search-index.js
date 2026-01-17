@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki305.Sadova.lab4","c":"ExpressionApp","l":"ExpressionApp()","u":"%3Cinit%3E()"},{"p":"ki305.Sadova.lab4","c":"ExpressionApp","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

@@ -1,0 +1,14 @@
+[18:55:53.965374] Pistol created with default magazine (10 max capacity).
+[18:55:53.989373100] Pistol created with custom max capacity: 15
+[18:55:53.991369500] SHOOT FAILED: Trigger is not cocked.
+[18:55:53.991768500] Trigger cocked.
+[18:55:53.991768500] SHOOT FAILED: Magazine is empty.
+[18:55:54.001353] Loaded 10 rounds. Total rounds: 10
+[18:55:54.016348500] Check rounds: YES
+[18:55:54.019352500] COCK FAILED: Trigger is already cocked.
+[18:55:54.020352700] SUCCESSFUL SHOT. Rounds left: 9
+[18:55:54.049348400] Trigger cocked.
+[18:55:54.049348400] SUCCESSFUL SHOT. Rounds left: 8
+[18:55:54.065346600] Loaded 7 rounds. Total rounds: 15
+[18:55:54.070349700] Unloaded all rounds. Total rounds: 0
+[18:55:54.073352500] Pistol object disposed. Closing log file...
